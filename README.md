@@ -1,2 +1,2 @@
 # Lab-1
-Lab 1 Assignment 
+3D scene of a pool with a ball in it along with chairs, trees, and small bushes
